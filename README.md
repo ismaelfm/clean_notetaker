@@ -5,6 +5,6 @@
 * Store pdfs in the pdf folder to start
 * To run:
 ```bash
-uv run sync
+uv sync
 uv run main.py
 ```
