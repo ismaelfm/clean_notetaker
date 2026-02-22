@@ -3,3 +3,8 @@
 * Uses openrouter
 * can strip strings if needed.
 * Store pdfs in the pdf folder to start
+* To run:
+```bash
+uv run sync
+uv run main.py
+```
